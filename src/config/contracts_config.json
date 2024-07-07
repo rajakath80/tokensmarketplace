@@ -1,0 +1,12 @@
+{
+    "296": {
+        "campaignFactory": {
+            "address": "0xEb4ab52aF097B71E6dFF39cc2a9E6DA9F5AA94f7",
+            "id": "0.0.4441019"
+        },
+        "escrow": {
+            "address": "0x82A3ec4aC38191c627693bF907576d8E04851025",
+            "id": "0.0.4441020"
+        }
+    }
+}
